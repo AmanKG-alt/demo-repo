@@ -1,2 +1,2 @@
-# demo-repo
+# test repo
 demo test for basiccommands
